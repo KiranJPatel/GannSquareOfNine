@@ -162,7 +162,7 @@ namespace GannSquareOfNine
             t.AddRow(value_seventeen_fin, value_nine_fin, value_one_fin, center_value, value_five_fin, value_thirteen_fin, value_twentyone_fin);//Row4
             t.AddRow(String.Empty, String.Empty, value_eight_fin, value_seven_fin, value_six_fin, String.Empty, String.Empty);//Row5
             t.AddRow(String.Empty, value_sixteen_fin, String.Empty, value_fifteen_fin, String.Empty, value_fourteen_fin, String.Empty);//Row6
-            t.AddRow(value_twentyfour_fin, String.Empty, String.Empty, value_twentythree_fin, String.Empty, String.Empty, value_twentytwo_fin); //Row1
+            t.AddRow(value_twentyfour_fin, String.Empty, String.Empty, value_twentythree_fin, String.Empty, String.Empty, value_twentytwo_fin); //Row7
             t.Print();
         }
     }
