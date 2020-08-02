@@ -74,7 +74,7 @@ namespace GannSquareOfNine
             t.AddRow(s17, s9, s1, s0, s5, s13, s21);//Row4
             t.AddRow(String.Empty, String.Empty, s8, s7, s6, String.Empty, String.Empty);//Row5
             t.AddRow(String.Empty, s16, String.Empty, s15, String.Empty, s14, String.Empty);//Row6
-            t.AddRow(s24, String.Empty, String.Empty, s23, String.Empty, String.Empty, s22); //Row1
+            t.AddRow(s24, String.Empty, String.Empty, s23, String.Empty, String.Empty, s22); //Row7
             t.Print();
 
             Console.WriteLine();
